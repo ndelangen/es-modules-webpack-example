@@ -1,4 +1,6 @@
 # DEMO EcmaScript modules
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ndelangen/es-modules-webpack-example.svg)](https://greenkeeper.io/)
 Should write a short description of this project..
 
 ## Setup environment
