@@ -1,0 +1,9 @@
+{
+  "roots": ["<rootDir>/src/", "<rootDir>/tests/"],
+  "testEnvironment": "node",
+  "cacheDirectory": "./.tmp/jest",
+  "collectCoverage": true,
+  "collectCoverageFrom": ["src/**"],
+  "coverageReporters": ["lcov", "text-summary"],
+  "coverageDirectory": "coverage"
+}
